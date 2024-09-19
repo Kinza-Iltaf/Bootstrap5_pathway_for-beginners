@@ -16,3 +16,18 @@ it is the fundamental class in Bootstrap which provide foundation for the conten
 There are two types of Container classes.
 1. .Container (this class has fixed width according to different screen sizes.)
 2. .Container-fluid (in this the width of the content goes edge to edge means 100 percent.)
+
+
+Fixed container:
+the width of container class changes according to differenct screen sizes
+
+Different screen and their widths:
+   Screens name                 screen Width                 breakpoints
+1. Extra small                   100%                         576px
+2. small                         540px                         >=576px
+3. medium                        720px                         >=768px 
+4. large                         940px                         >=992px
+5. Extra large                   1120px                         >=1200px
+6. double Extra large            1320px                         >=1400px
+
+Note: container class has different width according to screen sizes and when the break points are touch the container width change that make the site Responsive.
