@@ -1,0 +1,7 @@
+.container{
+    border: 3px solid red;
+}
+
+.container-fluid{
+    border: 5px solid rgb(0, 0, 0);
+}

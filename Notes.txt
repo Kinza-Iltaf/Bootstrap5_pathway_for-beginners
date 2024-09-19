@@ -1,0 +1,18 @@
+Bootstrap:
+Free framework of html and css to make the web development easy and faster.
+It helps us to create Responsive website.
+
+Responsive website:
+the website that adjust themselves according to different screens to look good from small screens to large screens like desktop (XXl)
+
+Ways to use Bootstrap:
+there are two ways to use Bootstrap:
+1. use the Bootstrap5 CDN link.
+2. Download the Bootstrap5 from the website.
+
+Container:
+it is the fundamental class in Bootstrap which provide foundation for the content on site and give it proper width and alignment.
+
+There are two types of Container classes.
+1. .Container (this class has fixed width according to different screen sizes.)
+2. .Container-fluid (in this the width of the content goes edge to edge means 100 percent.)
