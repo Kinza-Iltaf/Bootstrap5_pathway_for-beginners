@@ -1,0 +1,23 @@
+Display utility classes:
+These are pre-defined classes used to control the visiblity and display of the elements. It allow us to show or hide an element on different screens according to the screen sizes.
+
+Inline element:
+Elements which take width according to the content and don't start from new line are inline element.
+
+For example:
+
+strong , b , i , img , a etc 
+inline elements are oftenly used for formating purposes
+
+Block element:
+
+Element which take 100 percent of width and always start with new line are known as block elements.
+
+For example:
+
+p tag, header , footer, heading tags etc
+
+Some important classes:
+d-inline-block : it is used to convert the block element into inline element so if the next element is inline it will start from the end the the converted element.
+
+Example is Given in practice.html
