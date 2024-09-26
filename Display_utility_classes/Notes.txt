@@ -21,3 +21,4 @@ Some important classes:
 d-inline-block : it is used to convert the block element into inline element so if the next element is inline it will start from the end the the converted element.
 
 Example is Given in practice.html
+
