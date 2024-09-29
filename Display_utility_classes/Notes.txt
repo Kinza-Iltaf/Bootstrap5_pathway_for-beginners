@@ -22,3 +22,31 @@ d-inline-block : it is used to convert the block element into inline element so 
 
 Example is Given in practice.html
 
+Important classes related to display:
+d-print-none:
+this class is used when you wnat to avoid printing some content on the page.
+
+d-inline-block:
+
+this class is used to give the block element inline property.
+
+d-block:
+
+this class is used to give the inline element a block property that take 100 percnet of width.
+
+d-flex:
+
+ This class makes an element a block-level flex container. That means it takes up the full width of its parent and allows you to align its child elements using Flexbox properties like row/column layout, spacing, alignment, etc.
+
+Example use: Aligning items in a row or column, centering content within a div.
+
+d-inline-flex:
+
+ This class makes an element an inline flex container, meaning it behaves like an inline element (doesn't break to a new line) while still using Flexbox for child alignment. The element stays within the flow of text or other inline elements.
+
+Example use: Aligning small elements like buttons or icons in a line while keeping the surrounding text flow intact.
+
+d-none:
+to hide some element of the page
+
+

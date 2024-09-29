@@ -1,0 +1,51 @@
+               Float and clearfix:
+float-start:
+
+This class is used to make that specific element at the start of the row or line.
+
+float-end
+
+This class is used to make that spcific element at the end of the row or line at which element this class is applied.
+
+
+clearfix
+when the parent element having less height and the children element is not fitting well then this property help in fitting the children element into parent class height.
+
+float-none:
+if we want that this property does not work at specific screen then we use this class.
+
+                         Break Points:
+float-xxl-start
+float-xl-start and so on. like first property then screen details then property name(specification)
+
+
+                         width classes:
+
+w-25 (width 25 percent)
+w-50
+w-75
+w-100
+mw-100 (max-width) 
+w-auto (use to give default width to the element according to its content)      
+
+                            Height classes:
+h-25 (height 25 percent)
+h-50
+h-75
+h-100
+mh-100 (max-height) 
+h-auto (use to give default height to the element according to its content)
+
+                        classes to avoid the overflow of the content:
+
+                        viewport height and width classes
+
+                        viewport(screen at which we are watching things)
+
+vh-100
+min-vh-100
+
+vw-100
+min-vw-100
+
+
