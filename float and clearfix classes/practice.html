@@ -12,19 +12,47 @@
 <body>
 
     <!-- float-lest and float-right example -->
+     <!-- clearfix example -->
     <div class="container clearfix">
 
-          <div class="box-1 float-lg-end w-100">
+          <div class="box-1 float-none float-lg-end  ">
            <h3 > Box-1</h3>
            <span>i am here in box-1 Lorem ipsum dolor sit amet consectetur adipisicing elit. </span>
           </div>
           
-          <div class="box-2 float-lg-start w-25">
+          <div class="box-2 float-none float-lg-start  ">
             <h3>Box-2</h3>
             <p>i am here in box-2 Laudantium quidem ducimus </p>
           </div>
-         
-       
+        </div> 
+
+        <!-- width example -->
+
+        <div class="container clearfix my-5">
+
+          <div class="box-1 w-25  ">
+           <h3 > Box-1</h3>
+           <span>i am here in box-1 Lorem ipsum dolor sit amet consectetur adipisicing elit. </span>
+          </div>
+          
+          <div class="box-2 w-75 ">
+            <h3>Box-2</h3>
+            <p>i am here in box-2 Laudantium quidem ducimus </p>
+          </div>
+        </div> 
+
+      <!-- if we want that float only work on lg and above screen then we can use the float-none property -->
+        <div class="container clearfix">
+
+          <div class="box-1 float-none float-lg-end  ">
+           <h3 > Box-1</h3>
+           <span>i am here in box-1 Lorem ipsum dolor sit amet consectetur adipisicing elit. </span>
+          </div>
+          
+          <div class="box-2 float-none float-lg-start  ">
+            <h3>Box-2</h3>
+            <p>i am here in box-2 Laudantium quidem ducimus </p>
+          </div>
         </div> 
 
         <!-- Bootstrap JS CDN link -->
