@@ -1,0 +1,56 @@
+                           Position classes:
+
+position-relative:
+
+This means the element is positioned relative to its normal position. You can move it using properties like top, left, right, or bottom, but it still takes up its original space in the document flow.
+
+Think of it like nudging something a bit but still keeping its spot saved.
+
+position-absolute:
+The element is removed from the normal document flow, so it doesn’t affect other elements. It’s positioned relative to the nearest ancestor that has a position other than static (like relative, absolute, etc.).
+
+Imagine this like pinning something to a board in a specific spot, ignoring everything around it.
+
+position-static:
+This is the default position for all elements. The element just follows the normal flow of the document and ignores any top/left/right/bottom positioning.
+
+It’s like leaving everything as it is, no special positioning applied.
+
+position-fixed:
+The element is fixed to a specific spot on the screen, and it stays there even when you scroll. It’s positioned relative to the viewport (the visible area of the browser).
+
+Think of it like sticking something to your screen with tape—it doesn’t move when you scroll.
+
+position-sticky:
+This is a mix of relative and fixed. The element behaves like relative until you scroll past it, then it becomes fixed and sticks to the top (or another specified point) of the screen.
+
+It’s like a magnet that holds something in place once you scroll to a certain point.
+
+fixed-top
+fixed-bottom
+fixed-sticky
+
+                            Arrange Element classes
+
+top : for vertical top position
+start : for horizontal left position
+end : for horizontal right position
+bottom : for for verticla down position
+
+                        Measurement for arrange classes:
+
+0 for 0 edge
+50 for 50 percent edge position
+100 for 100 percent edge position
+
+
+                        Overflow classes
+overflow-auto
+overflow-visible
+overflow-hidden
+overflow-scrol                        
+
+
+                           
+                           
+                           
