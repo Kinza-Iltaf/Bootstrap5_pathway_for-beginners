@@ -10,6 +10,7 @@ This class is used to make that spcific element at the end of the row or line at
 Float-responsive-version:
 float-lg-start
 Now this property will work only on lg screens.
+
 clearfix
 when the parent element having less height and the children element is not fitting well then this property help in fitting the children element into parent class height.
 
