@@ -1,0 +1,44 @@
+            Background classes
+
+1. bg-primary
+2. bg-secondary
+3. bg-success
+4. bg-danger
+5. bg-warning
+6. bg-info    
+7. bg-light
+8. bg-dark
+9. bg-body
+10. bg-white
+11. bg-transparent   
+
+if we write with them bg-gradient then it will add more appealing effect like make that color more darker to make it attracitive
+
+
+                         Opacity options:(used to light the color)
+
+bg-opacity-75
+bg-opacity-50
+bg-opacity-25
+bg-opacity-10
+
+
+                          Text color classes:
+text-primary                             
+text-secondary                             
+text-success                             
+text-danger                             
+text-white                             
+text-warning                             
+text-info                             
+text-light                             
+text-body                             
+text-muted
+text-black-50 
+
+we can control the opacity of text too 
+
+text-opacity-75
+text-opacity-50
+text-opacity-25
+text-opacity-10
