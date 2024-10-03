@@ -1,0 +1,52 @@
+                     Text alignment classes:(their responsive classes is also available)
+
+text-align-left     text-start
+text-align-center    text-center
+text-align-right     text-end
+
+
+                  Text transform classes
+text-transform-lowercase        text-lowercase    
+text-transform-uppercase          text-uppercase 
+text-transform-capitalize         text-capitalize
+
+
+
+                   Text wrapping and overflow classes
+
+white-space:normal           text-wrap
+white-space:nowrap           text-nowrap
+word-wrap:break-word         text-break (to avoid the text overflow)
+word-break:break-word        text-break
+
+
+                   Font-sizes
+
+its started from fs-1(2.5 rem) to fs-6 (here fs-6(1 rem) is the smallest font size)  
+
+
+
+                        font-weight classes
+
+font-weight: 700;      fw-bold
+font-weight: bolder;   fw-bolder
+font-weight: 400;   fw-normal
+font-weight: 300;      fw-light
+font-style-italic      fst-italic
+font-style-normal      fst-normal
+
+                          line height
+
+
+lh-1
+lh-sm
+lh-lg
+lh-base    
+
+
+                     Text decoration classes:
+
+
+text-decoration-underline
+text-decoration-line-through
+text-decoration-none                     
