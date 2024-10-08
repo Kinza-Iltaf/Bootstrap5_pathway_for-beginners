@@ -1,0 +1,19 @@
+                          Bootrap classes for headings:
+
+h1 : display-1
+h2 : display-2
+h3 : display-3
+h4 : display-4
+h5 : display-5
+h6 : display-6
+
+To increase the line height and font size of the paragraph we use a class with p tag that is
+
+.lead (lead class)
+
+To remove the formating from the list, we use the list-unstyled class
+.list-unstyled
+
+As the list is the block element but if we want that all the elements of list should be display in one line then we have to use two classes
+.list-inline  ( in <ul> tag)
+.list-inline-item ( in <li> tag)
