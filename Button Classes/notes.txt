@@ -1,0 +1,29 @@
+              For buttons:
+
+for button we use a btn class with predefined colors
+
+.btn-colorname : like primary , secondary , success , danger , info , dark etc
+ We use also button tags for creating any button.
+
+ < button btn btn-primary type = " submit" > Submit < /button>
+
+                outline buttons classes:
+
+.btn-outline-primary
+
+
+                         Button size classes
+
+btn-lg  (large)
+btn-sm  (small)
+
+To give the button full width equal to screen size then we use div and inside that div we use the class d-grid and if we have multiple buttons just above at each other then we want that there should be gap between them so for this puopose we use gap-any number(from 1 to 5)
+
+d-grid gap-2 (inside the div tag and the 2 unit gap in be generated)
+
+
+
+                         Active and disabled classes
+
+for disabled button we use .disabled class
+for active button we use .active class                         
