@@ -1,0 +1,16 @@
+                   button group:
+
+making multiple button together with no space between them. so for this purpose we use a class in parent div
+.btn-group (in parent div and the rest would be same like btn class and its color etc)    
+
+
+                        changing the size of button
+
+for this we use the classes
+btn-group-lg (large)
+btn-group-sm   (small)     
+
+
+                         Making the button vertical
+
+btn-group-vertical (convert the group from horizontal to vertical)                                        
